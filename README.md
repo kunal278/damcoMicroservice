@@ -22,8 +22,6 @@ Step 4) Run > mvn clean package
 \
 \
 Step 5) Run > java -jar target\damcoMicroservice-0.0.1-SNAPSHOT.jar
-\
-\
 
 To close the application press ctrl+c
 
